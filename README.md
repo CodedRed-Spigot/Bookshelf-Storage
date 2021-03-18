@@ -129,7 +129,9 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 <!-- CONTACT -->
 ## Contact
 
-CodedRed - [@twitter_handle](https://twitter.com/devcodedred) - devcodedred@gmail.com
+CodedRed - [@twitter](https://twitter.com/devcodedred) - devcodedred@gmail.com
+[@spigotmc](https://www.spigotmc.org/resources/authors/codedred.421005/)
+[@discord](CodedRed#0900)
 
 Project Link: [https://github.com/CodedRed-Spigot/Bookshelf-Storage](https://github.com/CodedRed-Spigot/Bookshelf-Storage)
 
