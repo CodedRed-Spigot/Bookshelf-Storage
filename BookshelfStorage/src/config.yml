@@ -1,0 +1,18 @@
+ # Bookshelf Storage by CodedRed
+
+ # Size of shelf GUI.
+ # accepted-values: 9, 18, 27, 36, 45 & 54
+shelf-size: 9
+
+
+ # When true, the shelf GUI will only accept books.
+ # When false, you will be able to store any item in the shelf.
+books-only: true
+
+
+ # Shelf GUI title.
+shelf-title: "&a&lBookshelf"
+
+
+ # When enabled custom bookshelf textures will show to players who accept textures upon joining the server.
+custom-textures: true

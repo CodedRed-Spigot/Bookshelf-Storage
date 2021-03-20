@@ -1,0 +1,5 @@
+main: me.codedred.bookshelf.Bookshelf
+name: BookshelfStorage
+version: 1.0
+author: CodedRed
+api-version: 1.16
