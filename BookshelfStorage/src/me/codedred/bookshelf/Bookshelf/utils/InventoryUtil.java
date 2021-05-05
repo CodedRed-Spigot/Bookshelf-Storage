@@ -33,4 +33,9 @@ public class InventoryUtil {
 		DataManager data = DataManager.getInstance();
 		return ChatColor.translateAlternateColorCodes('&', data.getConfig().getString("shelf-title"));
 	}
+	
+	public static String format(String s) {
+		return ChatColor.translateAlternateColorCodes('&', s);
+	}
+	
 }
