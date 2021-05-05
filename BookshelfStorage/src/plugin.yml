@@ -1,4 +1,4 @@
-main: me.codedred.bookshelf.Bookshelf
+main: me.codedred.bookshelf.Bookshelf.Bookshelf
 name: BookshelfStorage
 version: 1.0
 author: CodedRed

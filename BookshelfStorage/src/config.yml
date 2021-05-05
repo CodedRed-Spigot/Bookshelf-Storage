@@ -15,4 +15,5 @@ shelf-title: "&a&lBookshelf"
 
 
  # When enabled custom bookshelf textures will show to players who accept textures upon joining the server.
-custom-textures: true
+ # This feature will be available in version 1.2 :)
+custom-textures: false
