@@ -12,6 +12,11 @@ import me.codedred.bookshelf.Bookshelf.listeners.custom.ShelfInteract;
 
 public class Bookshelf extends JavaPlugin {
 	
+	/***
+	 * This doesnt work, since bookshelfs are not TileStates... so I need to change the way the info is saved.
+	 * 
+	 */
+	
 	@Override
 	public void onEnable() {
 	
